@@ -1,5 +1,6 @@
 {
-  "name": "tip-caculator-react",
+  "name": "tip-caculator",
+  "homepage": "https://ataizefeitosa.github.io/tip-calculator/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
