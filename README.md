@@ -1,12 +1,12 @@
 # 💸 Tip Calculator
 
-Uma calculadora de gorjeta feita com **React**, que permite calcular facilmente:
+A tip calculator built with **React** that allows you to easily calculate:
 
-- O valor da gorjeta por pessoa
-- O valor total por pessoa (incluindo a gorjeta)
-- Com formatação de moeda em tempo real e um botão de reset para limpar os valores
+- The tip amount per person
+- The total amount per person (including the tip)
+- With real-time currency formatting and a reset button to clear all values
 
-## 🚀 Tecnologias usadas
+## 🚀 Technologies Used
 
 - React (Vite)
 - JavaScript
@@ -18,6 +18,9 @@ Uma calculadora de gorjeta feita com **React**, que permite calcular facilmente:
 - FreeCodeCamp - [(https://www.freecodecamp.org/Ataize)]
 - Frontend Mentor - [(https://www.frontendmentor.io/profile/Ataize)]
 
-# Frontend Mentor - Tip calculator app solution
+# Frontend Mentor - Tip Calculator App Solution
 
-This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Tip Calculator App challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX).  
+Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+---
