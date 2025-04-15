@@ -255,7 +255,6 @@ button {
   color: var(--Very-dark-cyan);
   font-size: 1.2rem;
   font-weight: bold;
-  padding-bottom: 2rem;
 }
 
 button:hover {
